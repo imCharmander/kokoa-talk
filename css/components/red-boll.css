@@ -1,0 +1,14 @@
+.red-boll {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  background-color: red;
+  bottom: 25px;
+  left: 30px;
+}
+
+.red-boll__cog {
+  left: 20px;
+  bottom: 20px;
+}
